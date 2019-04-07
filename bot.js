@@ -86,4 +86,6 @@ if (message.content.toLowerCase().startsWith(prefix + `close`)) {
 
 });
 
+////////////////////////BY AK ///////////////////////////
+
 client.login(token);
